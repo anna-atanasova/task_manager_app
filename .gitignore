@@ -1,0 +1,19 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore SQLite files
+*.db
+*.db-wal
+*.db-shm
+
+# Ignore logs
+*.log
+
+# Others
+*.cache
